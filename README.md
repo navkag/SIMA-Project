@@ -32,3 +32,9 @@ We analyze two types of datasets:
 
 The SIMA-Project aims to provide a comprehensive understanding of higher dimensional quantile regression and its application across synthetic and real-life datasets. Through this analysis, we gain insights into modeling complex relationships and making robust predictions in various domains.
 
+
+### Disclaimer
+
+This work is solely for exploration purposes. Any significant output cannot be published or commercialized without the mentor's consent. Future extensions of the work and contributions are subject to the mentor's discretion.
+
+
