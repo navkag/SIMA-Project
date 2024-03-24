@@ -4,6 +4,8 @@
 
 The SIMA-Project focuses on conducting higher dimensional quantile regression analysis using random forest regressor as the model.
 
+![Figure: Example of Multiple-output Quantile Regression](https://github.com/navkag/SIMA-Project/blob/main/sample_img.png)
+
 ### Project Overview
 
 In this project, we explore two types of quantile regression:
