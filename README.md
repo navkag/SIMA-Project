@@ -1,6 +1,6 @@
 # SIMA-Project
 
-## Higher Dimensional Quantile Regression Analysis
+## Higher Dimensional Quantile Regression Analysis.
 
 The SIMA-Project focuses on conducting higher dimensional quantile regression analysis using random forest regressor as the model.
 
