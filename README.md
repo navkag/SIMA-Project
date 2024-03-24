@@ -6,6 +6,12 @@ The SIMA-Project focuses on conducting higher dimensional quantile regression an
 
 ![Figure: Example of Multiple-output Quantile Regression](https://github.com/navkag/SIMA-Project/blob/main/sample_img.png)
 
+
+### Note
+
+Please note that the figures may not be visible directly on GitHub. It is recommended to download the zipped repository and open it in Google Colab or Jupyter Notebook. Ensure to place the necessary CSV files in the same directory for seamless execution.
+
+
 ### Project Overview
 
 In this project, we explore two types of quantile regression:
